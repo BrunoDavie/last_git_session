@@ -5,3 +5,5 @@ const factorial =(number) =>{
 
     return * factorial (number - 1);
 };
+
+const power =(a,b) => a**b;
