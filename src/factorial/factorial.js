@@ -6,4 +6,6 @@ const factorial =(number) =>{
     return * factorial (number - 1);
 };
 
-const power =(a,b) => a**b;
+const power =(a,b) => a ** b;
+
+const max = (a,b ) => Math.max (a,b);
